@@ -14,3 +14,6 @@ The dataset used in this project was taken from Kaggle:
 - *Power BI* – Data visualization and dashboard creation  
 - *Kaggle Dataset* – Source of raw Olympic data
 
+ Dashboard Interaction <a href="https://github.com/Mounikarelli/Sales-Performance-Dashboard/blob/main/Sales%20Dashboard.png">View Dashboard</a>
+
+
