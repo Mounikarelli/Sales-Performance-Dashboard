@@ -7,3 +7,10 @@ This project uses the dataset “Sales Data Set for Dashboard.xlsx”, which con
 ## 📜 Dataset Source
 The dataset used in this project was taken from Kaggle: 
 - <a href="https://github.com/Mounikarelli/Sales-Performance-Dashboard/blob/main/Sales%20Data%20Set%20for%20Dashboard.xlsx">Dataset</a>
+
+
+## 🧰 Tools & Technologies
+- *Microsoft Excel* – Data cleaning and preprocessing  
+- *Power BI* – Data visualization and dashboard creation  
+- *Kaggle Dataset* – Source of raw Olympic data
+
