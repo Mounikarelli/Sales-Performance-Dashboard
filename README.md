@@ -17,3 +17,11 @@ The dataset used in this project was taken from Kaggle:
  Dashboard Interaction <a href="https://github.com/Mounikarelli/Sales-Performance-Dashboard/blob/main/Sales%20Dashboard.png">View Dashboard</a>
 
 
+ ## ⚙ Data Preparation
+- Downloaded raw dataset from Kaggle  
+- Cleaned missing values and standardized country names in Excel  
+- Imported the cleaned dataset into Power BI for analysis
+
+
+
+
