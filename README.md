@@ -22,6 +22,11 @@ The dataset used in this project was taken from Kaggle:
 - Cleaned missing values and standardized country names in Excel  
 - Imported the cleaned dataset into Power BI for analysis
 
+  ## Dashboard 
+
+<img width="1325" height="745" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/2312e456-fbcb-4454-bc67-1ca0b6a758d8" />
+
+
 
 
 
